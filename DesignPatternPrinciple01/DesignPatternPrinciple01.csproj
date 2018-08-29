@@ -48,6 +48,15 @@
     <Compile Include="DIP\Lumia.cs" />
     <Compile Include="DIP\Mi.cs" />
     <Compile Include="DIP\Student.cs" />
+    <Compile Include="ISP\AbstractPhone.cs" />
+    <Compile Include="ISP\Honor.cs" />
+    <Compile Include="ISP\iPad.cs" />
+    <Compile Include="ISP\iPhone.cs" />
+    <Compile Include="ISP\ISPShow.cs" />
+    <Compile Include="ISP\iTouch.cs" />
+    <Compile Include="ISP\Lumia.cs" />
+    <Compile Include="ISP\Sony.cs" />
+    <Compile Include="ISP\Student.cs" />
     <Compile Include="LSP\Chileds.cs" />
     <Compile Include="LSP\LSPShow.cs" />
     <Compile Include="LSP\People.cs" />

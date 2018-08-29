@@ -42,6 +42,10 @@ namespace DesignPatternPrinciple01.DIP
                 Mi phone = new Mi();
                 student.PlayMi(phone);
             }
+            {
+                Mi phone = new Mi();
+                student.PlayPhone(phone);
+            }
         }
     }
 }
