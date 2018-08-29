@@ -17,7 +17,7 @@ namespace DesignPatternPrinciple01.LSP
 
         public void Traditional()
         {
-            Console.WriteLine("Traditional");
+            Console.WriteLine("People Traditional");
         } 
     }
 

@@ -6,7 +6,16 @@ using System.Threading.Tasks;
 
 namespace DesignPatternPrinciple01.DIP
 {
-    public class Honor
+    public class Honor : AbstractPhone
     {
+        public override void Call()
+        {
+            Console.WriteLine($"Use {this.GetType().Name} Call");
+        }
+
+        public override void Text()
+        {
+            Console.WriteLine($"Use {this.GetType().Name} Text");
+        }
     }
 }

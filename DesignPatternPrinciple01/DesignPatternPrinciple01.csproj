@@ -48,7 +48,7 @@
     <Compile Include="DIP\Lumia.cs" />
     <Compile Include="DIP\Mi.cs" />
     <Compile Include="DIP\Student.cs" />
-    <Compile Include="LSP\Chinese.cs" />
+    <Compile Include="LSP\Chileds.cs" />
     <Compile Include="LSP\LSPShow.cs" />
     <Compile Include="LSP\People.cs" />
     <Compile Include="LSP\Poly.cs" />
