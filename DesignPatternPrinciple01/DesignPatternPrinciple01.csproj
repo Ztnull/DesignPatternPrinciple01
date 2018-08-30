@@ -57,10 +57,15 @@
     <Compile Include="ISP\Lumia.cs" />
     <Compile Include="ISP\Sony.cs" />
     <Compile Include="ISP\Student.cs" />
+    <Compile Include="LOD\Class.cs" />
+    <Compile Include="LOD\LOPShow.cs" />
+    <Compile Include="LOD\School.cs" />
+    <Compile Include="LOD\Student.cs" />
     <Compile Include="LSP\Chileds.cs" />
     <Compile Include="LSP\LSPShow.cs" />
     <Compile Include="LSP\People.cs" />
     <Compile Include="LSP\Poly.cs" />
+    <Compile Include="OCP\OCPShow.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SRP\AbstractAnimal.cs" />

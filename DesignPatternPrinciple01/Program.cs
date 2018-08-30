@@ -17,8 +17,7 @@ namespace DesignPatternPrinciple01
         /// 6： 开闭原则(Open Closed Principle)
         /// 
         /// 
-        /// 
-        /// 设计模式的六大原则：这只是一个指导性的原则，如何遵循还需要自己去度量
+        /// 设计模式的六大原则：只是一个指导性的原则，如何遵循需要自己度量
         /// </summary>
         /// <param name="args"></param>
         static void Main(string[] args)
